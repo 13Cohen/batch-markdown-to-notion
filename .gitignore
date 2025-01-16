@@ -1,0 +1,10 @@
+/error_folder/
+/test_logs.json
+/test_errors.json
+/venv/
+/upload_logs.json
+/upload_errors.json
+/MarkText/
+/.idea/
+/.env
+/.env.test
