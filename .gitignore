@@ -8,3 +8,4 @@
 /.idea/
 /.env
 /.env.test
+.DS_Store
