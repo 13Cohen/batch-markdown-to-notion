@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_zh_CN.md) 
+
 # Notion Markdown Uploader
 
 A tool for batch uploading local Markdown files to Notion while preserving formatting and supporting recursive folder structure uploads.
